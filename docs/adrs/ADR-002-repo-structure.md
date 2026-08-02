@@ -28,7 +28,7 @@ We require a clear, scalable repository architecture that:
 We decide to adopt a **3-Repository Model** representing the three core disciplines of platform engineering: **Infrastructure**, **Application**, and **Platform/Delivery**.
 
 ```text
-[github.com/your-username/](https://github.com/your-username/)
+[github.com/your-username/](https://github.com/aunal/)
 ├── 1. lab-infrastructure/    # OS, Networking, Hardening, Bash, Tailscale, systemd
 ├── 2. lab-telemetry-app/     # Python agents, FastAPI backend, Dockerfiles, CLI tools
 └── 3. lab-k8s-platform/      # Declarative Kubernetes YAML, Helm values, Drone CI pipelines
