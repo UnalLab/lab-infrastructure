@@ -2,7 +2,7 @@
 
 * **Status:** Accepted
 * **Date:** 2026-08-02
-* **Authors:** SSJ Bespoke Joinery & Engineering
+* **Authors:** AHMED ERVA UNAL
 
 ---
 
